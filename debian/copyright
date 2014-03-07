@@ -1,0 +1,82 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: kfilemetadata
+Source: git://anongit.kde.org/kfilemetadata
+
+Files: *
+Copyright: © 2012-2014 Vishesh Handa <me@vhanda.in>
+           © 2013 David Edmundson <davidedmundson@kde.org>
+           © 2012 Jörg Ehrichs <joerg.ehrichs@gmx.de>
+           © 2013 Denis Steckelmacher <steckdenis@yahoo.fr>
+           © 2011 Tirtha Chatterjee <tirtha.p.chatterjee@gmail.com>
+           © 2008 Pino Toscano <pino@kde.org>
+           © 2006 Wilfried Huss <wilfried.huss@gmx.at>
+           © 2010 Evgeny Egorochkin <phreedom.stdin@gmail.com>
+           © 2008 Jakub Stachowski <qbast@go2.pl>
+License: LGPL-2.1+
+
+Files: src/kfilemetadata_export.h
+Copyright: © 2007 David Faure <faure@kde.org>
+License: LGPL-2
+
+Files: debian/*
+Copyright: Rohan Garg <rohangarg@kubuntu.org>
+License: GPL-2+
+ This program is free software; you can redistribute it
+ and/or modify it under the terms of the GNU General Public
+ License as published by the Free Software Foundation; either
+ version 2 of the License, or (at your option) any later
+ version.
+ .
+ This program is distributed in the hope that it will be
+ useful, but WITHOUT ANY WARRANTY; without even the implied
+ warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR
+ PURPOSE.  See the GNU General Public License for more
+ details.
+ .
+ You should have received a copy of the GNU General Public
+ License along with this package; if not, write to the Free
+ Software Foundation, Inc., 51 Franklin St, Fifth Floor,
+ Boston, MA  02110-1301 USA
+ .
+ On Debian systems, the full text of the GNU General Public
+ License version 2 can be found in the file
+ `/usr/share/common-licenses/GPL-2'.
+
+License: LGPL-2.1+
+ This library is free software; you can redistribute it and/or
+ modify it under the terms of the GNU Lesser General Public
+ License as published by the Free Software Foundation; either
+ version 2.1 of the License, or (at your option) any later version.
+ .
+ This library is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ Lesser General Public License for more details.
+ .
+ You should have received a copy of the GNU Lesser General Public
+ License along with this library; if not, write to the Free Software
+ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+ .
+ On Debian systems, the complete text of the
+ GNU Lesser General Public License version 2.1 can be found in
+ /usr/share/common-licenses/LGPL-2.1
+
+License: LGPL-2
+ This library is free software; you can redistribute it and/or
+ modify it under the terms of the GNU Library General Public
+ License as published by the Free Software Foundation; either
+ version 2 of the License, or (at your option) any later version.
+ .
+ This library is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ Library General Public License for more details.
+ .
+ You should have received a copy of the GNU Library General Public License
+ along with this library; see the file COPYING.LIB.  If not, write to
+ the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+ Boston, MA 02110-1301, USA.
+ .
+ On Debian systems, the complete text of the
+ GNU Library General Public License version 2 can be found in
+ /usr/share/common-licenses/LGPL-2
