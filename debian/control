@@ -10,7 +10,8 @@ Build-Depends: debhelper (>= 9.0.0), cmake,
  libavcodec-dev,
  libavformat-dev,
  libavdevice-dev,
- libswscale-dev
+ libswscale-dev,
+ libqmobipocket-dev
 Standards-Version: 3.9.4
 Section: libs
 Homepage: http://projects.kde.org/kfilemetadata
