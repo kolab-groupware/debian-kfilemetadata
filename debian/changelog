@@ -4,6 +4,5 @@ kfilemetadata (4:4.12.80-0ubuntu1) UNRELEASED; urgency=low
   * Initial release
 
   [ Jonathan Riddell ]
-  * New upstream beta release
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Thu, 13 Mar 2014 21:34:21 +0000
