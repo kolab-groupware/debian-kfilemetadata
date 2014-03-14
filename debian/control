@@ -36,6 +36,7 @@ Description: library for extracting file metadata
 Package: kfilemetadata-dbg
 Section: debug
 Architecture: any
+Priority: extra
 Depends: ${shlibs:Depends}, ${misc:Depends}, libkfilemetadata4 (= ${binary:Version})
 Description: library for extracting file metadata -- debug symbols
  A library for extracting file metadata -- debug symbols
