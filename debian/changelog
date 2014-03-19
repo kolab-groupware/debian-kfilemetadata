@@ -1,4 +1,4 @@
-kfilemetadata (4:4.12.90-0ubuntu1) UNRELEASED; urgency=low
+kfilemetadata (4:4.12.90-0ubuntu1) trusty; urgency=low
 
   [ Rohan Garg ]
   * Initial release
@@ -6,4 +6,4 @@ kfilemetadata (4:4.12.90-0ubuntu1) UNRELEASED; urgency=low
   [ Jonathan Riddell ]
   * New upstream beta release
 
- -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 14 Mar 2014 00:03:45 +0000
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 19 Mar 2014 10:55:44 +0000
