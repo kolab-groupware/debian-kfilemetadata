@@ -1,3 +1,9 @@
+kfilemetadata (4:4.13.0-0ubuntu1) UNRELEASED; urgency=medium
+
+  * New upstream KDE Software Compilation release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Thu, 10 Apr 2014 11:25:20 +0100
+
 kfilemetadata (4:4.12.97-0ubuntu1) trusty; urgency=medium
 
   * New upstream release candidate
