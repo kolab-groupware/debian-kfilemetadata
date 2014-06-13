@@ -1,4 +1,5 @@
-usr/lib/libkfilemetadata.so.4*
-usr/lib/kde4/
-usr/share/kde4/services/
-usr/share/kde4/servicetypes/
+usr/lib/kde4/kfilemetadata_*
+usr/lib/libkfilemetadata.so.4
+usr/lib/libkfilemetadata.so.4.*
+usr/share/kde4/services/kfilemetadata_*
+usr/share/kde4/servicetypes/kfilemetadata*

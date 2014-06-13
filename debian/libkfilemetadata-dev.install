@@ -1,3 +1,3 @@
-usr/include/*
-usr/lib/cmake/
+usr/include/kfilemetadata/
+usr/lib/cmake/KFileMetaData/
 usr/lib/libkfilemetadata.so
