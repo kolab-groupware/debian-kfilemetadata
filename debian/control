@@ -5,21 +5,19 @@ XSBC-Original-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.
 Uploaders: Rohan Garg <rohangarg@kubuntu.org>,
            Maximiliano Curia <maxy@debian.org>
 Build-Depends: cmake,
-               debhelper (>= 9),
-               kdelibs5-dev (>= 4:4.13.2),
+               debhelper (>= 9.0.0),
+               kdelibs5-dev (>= 4.13.0),
                libavcodec-dev,
                libavdevice-dev,
                libavformat-dev,
                libepub-dev,
                libexiv2-dev,
                libpoppler-qt4-dev,
-               libqmobipocket-dev,
                libswscale-dev,
                libtag1-dev,
                pkg-kde-tools
-Standards-Version: 3.9.5
+Standards-Version: 3.9.4
 Section: libs
-XS-Testsuite: autopkgtest
 Homepage: http://projects.kde.org/kfilemetadata
 Vcs-Browser: http://bazaar.launchpad.net/~kubuntu-packagers/kubuntu-packaging/kfilemetadata
 Vcs-Bzr: https://code.launchpad.net/~kubuntu-packagers/kubuntu-packaging/kfilemetadata

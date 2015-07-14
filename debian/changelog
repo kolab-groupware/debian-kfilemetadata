@@ -1,3 +1,9 @@
+kfilemetadata (4:4.13.2-0ubuntu0.1~ubuntu12.04~ppa1~kolab1) precise; urgency=medium
+
+  * version number update by debtransform
+
+ -- Sandro Knauß <knauss@kolabsys.com>  Wed, 21 Jan 2015 23:50:23 +0100
+
 kfilemetadata (4:4.13.2-0ubuntu1) utopic; urgency=medium
 
   * new upstream release

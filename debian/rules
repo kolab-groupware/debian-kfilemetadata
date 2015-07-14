@@ -2,8 +2,10 @@
 
 include /usr/share/pkg-kde-tools/qt-kde-team/2/debian-qt-kde.mk
 
-# disable unit testing on build, avoid the extra build-dependencies
-.PHONY: override_dh_auto_test
+%:
+	dh $@
 
 override_dh_strip:
 	dh_strip --dbg-package=kfilemetadata-dbg
+
+.PHONY: override_dh_auto_test
